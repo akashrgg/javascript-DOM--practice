@@ -41,7 +41,7 @@ body{
 
 #de-mo{
     
-    width: 300px;
+    width: 260px;
     height: 5vh;
     
    
@@ -75,6 +75,12 @@ body{
     background-color: #fbc689;
     padding-top: 30px;
     padding-bottom: 50px;
+}
+#button-id{
+    width: 50px;
+}
+#button-ids{
+    width: 158px;
 }
 #bu-tton{
     width: 50px;
