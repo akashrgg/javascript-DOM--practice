@@ -33,7 +33,7 @@ body{
     background-color: rgb(194, 123, 30);
     display:grid;
     justify-content: center;
-    width: 460px;
+    width: 360px;
     padding-top: 4vh;
 }
     
@@ -46,6 +46,47 @@ body{
     
    
     
+}
+#pad1{
+    
+    padding-bottom: 50px;
+}
+#color{
+    background-color: burlywood;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#color2{
+    background-color: rgb(236, 145, 10);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#color3{
+    background-color: #955308;
+    
+    padding-bottom: 30px;
+}
+#color4{
+    background-color: rgb(249, 148, 76);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#color5{
+    background-color: #fbc689;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+#bu-tton{
+    width: 50px;
+    height: 5vh;
+}
+#but-ton{
+    height: 6vh;
+}
+#grid4{
+    width: 360px;
+    display: grid;
+    justify-content: center;
 }
 #g{
     display: grid;
@@ -79,3 +120,40 @@ body{
 #v-an{
     color: black;
 }
+#pad1:hover{
+    transition: background-color 0.3s;
+    transform: scale(0.9);
+    background-color:rgb(194, 123, 30);
+    color: aliceblue;
+}
+#color:hover{
+
+transition: background-color 0.3s;
+    transform: scale(0.9);
+    
+    color: aliceblue;
+}
+#color2:hover{
+    transition: background-color 0.3s;
+    transform: scale(0.9);
+    
+    color: aliceblue;
+}
+#color3:hover{
+    transition: background-color 0.3s;
+    transform: scale(0.9);
+    
+    color: aliceblue;
+}
+#color4:hover{
+    transition: background-color 0.3s;
+    transform: scale(0.9);
+    
+    color: aliceblue;
+}
+#color5:hover{
+    transition: background-color 0.3s;
+    transform: scale(0.9);
+    
+    color: aliceblue;
+} 

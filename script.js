@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById("hello").innerHTML="welcome";
+    document.getElementById("hello").innerHTML="I am Akash";
 }
 
 let demo = document.getElementById("de-mo");
@@ -102,7 +102,7 @@ function akash( ){
     
 function generate()
    {
-    return "<input type = 'text'> <button onclick ='remove(this)'>remove it</button>";
+    return "<input type = 'text' style = 'padding-left= 50px'> <button onclick ='remove(this)'>remove it</button>";
 
 
   }
@@ -122,7 +122,7 @@ btnn.onclick = function(){
 }
 
 function generateit(){
-    return "<img src = 'images.jpg' width = '30%'> <button onclick = 'removeit(this)'> delete </button>";
+    return "<img src = 'img3.jpg' width = '360px'> <button onclick = 'removeit(this)'> delete </button>";
 
 }
 
