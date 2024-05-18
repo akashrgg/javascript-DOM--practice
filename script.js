@@ -49,13 +49,13 @@ function akash( ){
      var img = document.querySelector("img");
      img.onclick = function(){
         var src= img.getAttribute("src");
-        if(src== "DIODE.jpg")
+        if(src== "img2.jpg")
         {
-            img.setAttribute("src","DOIDE.jpg");
+            img.setAttribute("src","img1.jpg");
          
         }
         else{
-            img.setAttribute("src","DIODE.jpg");
+            img.setAttribute("src","img2.jpg");
         }
         
         
@@ -67,12 +67,12 @@ function akash( ){
      image.onclick = function(){
 
         var src= image.getAttribute("src");
-        if(src == "images.jpg")
+        if(src == "img6.jpg")
         {
-            image.setAttribute("src","current.jpg");
+            image.setAttribute("src","img7.jpg");
         }
         else{
-            image.setAttribute("src","images.jpg");
+            image.setAttribute("src","img6.jpg");
         }
 
     }
