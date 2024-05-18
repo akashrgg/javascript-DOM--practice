@@ -83,7 +83,7 @@ body{
     width: 158px;
 }
 #bu-tton{
-    width: 50px;
+    width: 80px;
     height: 5vh;
 }
 #but-ton{
@@ -130,36 +130,41 @@ body{
     transition: background-color 0.3s;
     transform: scale(0.9);
     background-color:rgb(194, 123, 30);
-    color: aliceblue;
+    color: rgb(4, 46, 84);
 }
 #color:hover{
 
 transition: background-color 0.3s;
     transform: scale(0.9);
     
-    color: aliceblue;
+    color:rgb(75, 4, 4);
 }
 #color2:hover{
     transition: background-color 0.3s;
     transform: scale(0.9);
     
-    color: aliceblue;
+    color: rgb(131, 8, 121);
 }
 #color3:hover{
     transition: background-color 0.3s;
     transform: scale(0.9);
     
-    color: aliceblue;
+    color: rgb(90, 8, 24);
 }
 #color4:hover{
     transition: background-color 0.3s;
     transform: scale(0.9);
     
-    color: aliceblue;
+    color: rgb(54, 16, 142);
 }
 #color5:hover{
     transition: background-color 0.3s;
     transform: scale(0.9);
     
-    color: aliceblue;
+    color: rgb(120, 2, 2);
 } 
+.bb{
+    width: 80px;
+    height: 5vh;
+    margin-left: 142px;
+}

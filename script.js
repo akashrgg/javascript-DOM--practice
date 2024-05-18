@@ -30,10 +30,10 @@ function del(){
 
 const atr = document.querySelector(".yy")
  function getattri () {
-    atr.innerHTML="clear";
+    atr.innerHTML=" Welcome to all";
  }
  function clearatt(){
-    atr.innerHTML="wecome";
+    atr.innerHTML="I am front-end developer";
  }
 
 
@@ -102,7 +102,7 @@ function akash( ){
     
 function generate()
    {
-    return "<input type = 'text' style = 'padding-left= 50px'> <button onclick ='remove(this)'>remove it</button>";
+    return " <div id ='g'><input type = 'text'></div> <br> <button class='bb' onclick ='remove(this)'>remove it</button>";
 
 
   }
