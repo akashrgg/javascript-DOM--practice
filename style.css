@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    background-color: black;
+    background-image: url(img.png);
     display: flex;
     justify-content: center;
 }
@@ -10,7 +10,7 @@ body{
     width: 460px;
     display: flex;
     flex-basis: 40px;
-    background-color:brown;
+    
     justify-content: center;
     
 }
