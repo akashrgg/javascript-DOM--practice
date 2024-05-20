@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    background-image: url(img.png);
+    background-color:#bc690b;
     display: flex;
     justify-content: center;
 }
